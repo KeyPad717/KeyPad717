@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeyPad717
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning c and c++
+- 🌱 I have a grip in C ,C++ ,Java and Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, mail me on keyurpadiya123@gmail.com
 
