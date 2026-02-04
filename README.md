@@ -112,28 +112,24 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 
 ---
 
-### 📊 GitHub Stats
+v### 📊 GitHub Stats
 
 <p align="center">
 
-<a href="https://github.com/KeyPad717">
-<img src="https://github-readme-stats.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-</a>
+<img 
+  src="https://stats-github-readme.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true" 
+/>
 
 <br/><br/>
 
-<a href="https://github.com/KeyPad717">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KeyPad717&theme=dark&hide_border=true&cache_seconds=86400" />
-</a>
+<img 
+  src="https://streak-stats.demolab.com?user=KeyPad717&theme=dark&hide_border=true" 
+/>
 
 <br/><br/>
 
-<a href="https://github.com/KeyPad717">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyPad717&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
-</a>
+<img 
+  src="https://stats-github-readme.vercel.app/api/top-langs/?username=KeyPad717&layout=compact&theme=dark&hide_border=true" 
+/>
 
 </p>
-
----
-
-⭐️ From [KeyPad717](https://github.com/KeyPad717)
