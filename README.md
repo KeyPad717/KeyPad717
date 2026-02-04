@@ -141,7 +141,7 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
     <td width="50%" align="center">
       <b>LeetCode</b><br/>
       <img 
-        src="https://leetcard.jacoblin.cool/Key_777?theme=dark&font=Karma&ext=heatmap" 
+<img src="https://leetcode-stats-six.vercel.app/api?username=Key_777&theme=dark" />
       />
     </td>
   </tr>
