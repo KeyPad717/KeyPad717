@@ -19,8 +19,13 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 ### 🛠️ Skills
 
 <p align="left">
+
 <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" />
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
@@ -31,16 +36,52 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" />
 </a>
 
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" />
+</a>
+
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://nextjs.org/docs" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" />
 </a>
 
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" />
 </a>
 
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" />
+</a>
+
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" />
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
@@ -50,6 +91,7 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" />
 </a>
+
 </p>
 
 ---
@@ -72,22 +114,26 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/KeyPad717">
-<img src="https://github-readme-stats.vercel.app/api?username=KeyPad717&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&text_color=ffffff&icon_color=0891b2" />
+<img src="https://github-readme-stats.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/KeyPad717">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KeyPad717&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KeyPad717&theme=dark&hide_border=true&cache_seconds=86400" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/KeyPad717">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyPad717&langs_count=10&hide_border=true&bg_color=1c1917&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyPad717&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 </a>
 
 </p>
+
+---
+
+⭐️ From [KeyPad717](https://github.com/KeyPad717)
