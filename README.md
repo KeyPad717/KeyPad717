@@ -135,16 +135,14 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
     <td width="50%" align="center">
       <b>Codeforces</b><br/>
       <img 
-        src="https://codeforces-readme-stats.vercel.app/api/card?username=Key7&theme=dark" 
+        src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_USERNAME&theme=dark" 
       />
     </td>
     <td width="50%" align="center">
       <b>LeetCode</b><br/>
-      <img 
-<img src="https://leetcode-stats-six.vercel.app/api?username=Key_777&theme=dark" />
-      />
+      <img src="https://stats.justsong.cn/api/leetcode?username=Key_777&theme=dark&showRank=true" />
+
     </td>
   </tr>
 </table>
-
 
