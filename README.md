@@ -114,7 +114,7 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 
 📊 GitHub Stats 
 <div>
-  <p align="center"> <img src="https://stats-github-readme.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true" /> <br/><br/> 
-<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=KeyPad717&layout=compact&theme=dark&hide_border=true" /> </p>
+  <div><p align="center"> <img src="https://stats-github-readme.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true" /> <br/><br/> </div>
+  <div><img src="https://stats-github-readme.vercel.app/api/top-langs/?username=KeyPad717&layout=compact&theme=dark&hide_border=true" /> </p></div>
 </div>
 
