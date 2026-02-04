@@ -112,24 +112,16 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 
 ---
 
-v### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyPad717&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<img 
-  src="https://stats-github-readme.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=KeyPad717&theme=dark&hide_border=true" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://stats-github-readme.vercel.app/api/top-langs/?username=KeyPad717&layout=compact&theme=dark&hide_border=true" 
-/>
-
-</p>
