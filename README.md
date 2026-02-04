@@ -115,6 +115,7 @@ Currently, I am focused on building projects, strengthening my fundamentals, and
 ### 📊 GitHub Stats
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/overview.svg" />
 
 <img height="170"
      src="https://github-readme-stats.vercel.app/api?username=KeyPad717&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
